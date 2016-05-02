@@ -4,3 +4,12 @@
 [submodule "c"]
 	path = c
 	url = git@github.com:coletiv/universal-c.git
+[submodule "sdk/web"]
+	path = sdk/web
+	url = https://github.com/coletiv/universal-web
+[submodule "sdk/node"]
+	path = sdk/node
+	url = https://github.com/coletiv/universal-node
+[submodule "sdk/c"]
+	path = sdk/c
+	url = https://github.com/coletiv/universal-c
